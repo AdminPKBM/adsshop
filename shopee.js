@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://shope.ee/nrBfm6th';
+        var origin = 'https://leezeept.com/4/2378118';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
